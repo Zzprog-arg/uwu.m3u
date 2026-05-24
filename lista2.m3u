@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Evento 1",PREVIA FINAL LPF
+#EXTINF:-1 tvg-id="" tvg-name="PREVIA FINAL LPF" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Evento 1",PREVIA FINAL LPF
 http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/712755.ts
 #EXTINF:-1 tvg-id="" tvg-name="A24 " tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina OP2",A24 
 http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/712701.ts
