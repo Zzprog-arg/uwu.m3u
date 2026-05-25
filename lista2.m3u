@@ -100,8 +100,10 @@ http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/712744.ts
 http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/712745.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211120194330" group-title="Zona ESPN",ESPN 4 
 http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/712746.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Zona ESPN",ESPN Premium
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="Zona ESPN",ESPN Premium
 http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/712747.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM AR" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="Zona ESPN op2",ESPN PREMIUM AR
+http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/591997.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Fox_Sports_Argentina_2023.svg/revision/latest/scale-to-width-down/200?cb=20230305142851&path-prefix=es" group-title="Zona FoxSports",Fox Sports 
 http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/712748.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Zona FoxSports",Fox Sports 2
