@@ -70,6 +70,20 @@ http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/712739.ts
 http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/712740.ts
 #EXTINF:-1 tvg-id="" tvg-name="Volver" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver
 http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/712741.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO 24/7
+http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/749367.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 1
+http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/749368.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 2" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 2
+http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/749369.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 3" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 3
+http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/749370.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO MULTICAMARA
+http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/749371.ts
+#EXTINF:-1 tvg-id="" tvg-name="| CLARO SPORT |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="Deportes Argentinos",| CLARO SPORT |
+http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/592034.ts
+#EXTINF:-1 tvg-id="" tvg-name="| CLARO SPORTS 2 |" tvg-logo="https://i.postimg.cc/Y0HQbqq7/Claro-Sports-logo-svg.png" group-title="Deportes Argentinos",| CLARO SPORTS 2 |
+http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/592035.ts
 #EXTINF:-1 tvg-id="" tvg-name="Deportv " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/DeporTV_%282020%29.png/revision/latest/scale-to-width-down/1000?cb=20210101172130&path-prefix=es" group-title="Deportes Argentinos",Deportv 
 http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/712742.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN " tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hdrkql1660762351.png" group-title="Zona ESPN",ESPN 
