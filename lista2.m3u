@@ -1,5 +1,11 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="Evento 1" tvg-logo="https://i.ibb.co/3ycCfFnF/Chat-GPT-Image-25-may-2026-17-41-07.png" group-title="Evento 1",Evento 1
+https://i.ibb.co/cXSJzD8m/f04f87d9-d7d7-499b-9d0e-36d3c3c90282.png
+#EXTINF:-1 tvg-id="" tvg-name="evento 2" tvg-logo="https://i.ibb.co/3ycCfFnF/Chat-GPT-Image-25-may-2026-17-41-07.png" group-title="evento 2",evento 2
+https://i.ibb.co/cXSJzD8m/f04f87d9-d7d7-499b-9d0e-36d3c3c90282.png
+#EXTINF:-1 tvg-id="" tvg-name="evento 3" tvg-logo="https://i.ibb.co/3ycCfFnF/Chat-GPT-Image-25-may-2026-17-41-07.png" group-title="evento 3",evento 3
+https://i.ibb.co/cXSJzD8m/f04f87d9-d7d7-499b-9d0e-36d3c3c90282.png
 #EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24
 http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/712702.ts
 #EXTINF:-1 tvg-id="" tvg-name="America TV" tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Argentina",America TV
