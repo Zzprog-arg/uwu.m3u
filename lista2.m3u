@@ -358,7 +358,7 @@ http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/96209.ts
 http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/140365.ts
 #EXTINF:-1 tvg-id="CINESTE" tvg-name="CINE ESTELAR" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="✮CINE PREMIUM✮",CINE ESTELAR
 http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/148901.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="EXTRA CINE",Cinema DC Universe
-http://vivotv.site:80/LuisCalderon/HVKQHgZbhS/140943.ts
 #EXTINF:-1 tvg-id="Latina" tvg-name="Radio Latina" tvg-logo="https://imgs.search.brave.com/1gsnZ8a2zp4ObPX0sbxvuj1N8ZGNyX8Yb-Pk_NUkmUM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9teXJh/ZGlvZW52aXZvLmFy/L3B1YmxpYy91cGxv/YWRzL3JhZGlvX2lt/Zy9yYWRpby1sYXRp/bmEtMTAxLTEvZmJf/Y292ZXIuanBn" group-title="Radio",Latina Telecetro
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8?uid=220fec094bba43edcb91b31527ff5a19
+#EXTINF:-1 tvg-id="Latina" tvg-name="Radio Latina" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/691/orion-stereo-1027-fm.c208087f.png" group-title="Radio",Orion
+https://ss.redradios.net:8046/stream
